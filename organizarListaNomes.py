@@ -5,3 +5,7 @@ pessoas = [' Ana', 'breno', 'FELIPE', 'StEnIo ', ' JUNior']
 pessoas_formatadas = [pessoa.strip().capitalize() for pessoa in pessoas]
 
 print(pessoas_formatadas)
+
+### saida esperada: 
+### ['Ana', 'Breno', 'Felipe', 'Stenio', 'Junior']
+###
