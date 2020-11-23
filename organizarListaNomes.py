@@ -1,4 +1,4 @@
-## Lista com nomes sem padrão, com espaço no inicio do nome. A ideia é ter uma saida com o padrão da primeira letra maiuscula e o restante minuscula.
+## Lista com nomes sem padrão e com espaço no inicio do nome. A ideia é ter uma saida com o padrão sendo a primeira letra maiuscula e o restante minuscula.
 
 pessoas = [' Ana', 'breno', 'FELIPE', 'StEnIo ', ' JUNior']
 
