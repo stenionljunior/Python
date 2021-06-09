@@ -1,4 +1,4 @@
-dicionario = {'nome': 'Stenio', 'idade': 27, 'cidade': 'Salvador, 'estado': 'Bahia'}
+dicionario = {'nome': 'Stenio', 'idade': 27, 'cidade': 'Salvador', 'estado': 'Bahia'}
 
 ## todos os valores: 
 print(dicionario)
